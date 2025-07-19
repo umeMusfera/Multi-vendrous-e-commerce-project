@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/umeMusfera/Multi-vendrous-e-commerce-project.git/static/css/main.0d5628ad.css",
+    "main.js": "/umeMusfera/Multi-vendrous-e-commerce-project.git/static/js/main.2fe7f331.js",
+    "static/js/787.cda612ba.chunk.js": "/umeMusfera/Multi-vendrous-e-commerce-project.git/static/js/787.cda612ba.chunk.js",
+    "index.html": "/umeMusfera/Multi-vendrous-e-commerce-project.git/index.html",
+    "main.0d5628ad.css.map": "/umeMusfera/Multi-vendrous-e-commerce-project.git/static/css/main.0d5628ad.css.map",
+    "main.2fe7f331.js.map": "/umeMusfera/Multi-vendrous-e-commerce-project.git/static/js/main.2fe7f331.js.map",
+    "787.cda612ba.chunk.js.map": "/umeMusfera/Multi-vendrous-e-commerce-project.git/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5628ad.css",
+    "static/js/main.2fe7f331.js"
+  ]
+}
