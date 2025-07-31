@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Multi-vendrous-E-commerce/static/css/main.0d5628ad.css",
-    "main.js": "/Multi-vendrous-E-commerce/static/js/main.87aae30c.js",
-    "static/js/787.cda612ba.chunk.js": "/Multi-vendrous-E-commerce/static/js/787.cda612ba.chunk.js",
-    "index.html": "/Multi-vendrous-E-commerce/index.html",
-    "main.0d5628ad.css.map": "/Multi-vendrous-E-commerce/static/css/main.0d5628ad.css.map",
-    "main.87aae30c.js.map": "/Multi-vendrous-E-commerce/static/js/main.87aae30c.js.map",
-    "787.cda612ba.chunk.js.map": "/Multi-vendrous-E-commerce/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/Multi-vendrous-e-commerce-project/static/css/main.0d5628ad.css",
+    "main.js": "/Multi-vendrous-e-commerce-project/static/js/main.9b1acea8.js",
+    "static/js/787.cda612ba.chunk.js": "/Multi-vendrous-e-commerce-project/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Multi-vendrous-e-commerce-project/index.html",
+    "main.0d5628ad.css.map": "/Multi-vendrous-e-commerce-project/static/css/main.0d5628ad.css.map",
+    "main.9b1acea8.js.map": "/Multi-vendrous-e-commerce-project/static/js/main.9b1acea8.js.map",
+    "787.cda612ba.chunk.js.map": "/Multi-vendrous-e-commerce-project/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d5628ad.css",
-    "static/js/main.87aae30c.js"
+    "static/js/main.9b1acea8.js"
   ]
 }
